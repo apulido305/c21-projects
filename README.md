@@ -1,3 +1,3 @@
 # c21-projects
 
-You will find some of the projects i worked on at wyncode academy during cohort 21. 
+You will find one of the projects i worked on at wyncode academy during cohort 21. 
